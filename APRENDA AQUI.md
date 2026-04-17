@@ -1,6 +1,12 @@
 # Controle de Rede — Roteador Vivo
 
-Fiz esse projeto porque queria ter controle de verdade sobre quem acessa minha internet em casa. Cansei de depender do app da operadora pra isso, então fui direto na API do roteador e montei meu próprio painel.
+
+Tudo que esta escrito daqui pra baixo foi meu dev jr que fez, então, não tem como voce não conseguir usar, é nois! 
+
+
+
+
+
 
 Com ele consigo ver todos os dispositivos conectados e bloquear/liberar o acesso de qualquer um com um clique — sem mexer no painel do roteador.
 
